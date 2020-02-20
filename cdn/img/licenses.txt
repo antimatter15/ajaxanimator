@@ -1,0 +1,150 @@
+I must warn you that I have absolutely no legal experience whatsoever. So this is a compiliation of the licenses all the icons used.
+I also must warn you that the really really crappy icons (which are obviously the ones I actually made) which costitute selectadd and
+eye_closed in the icon folder are under public domain because of their sheer crappyness undeserving for copyright.
+
+
+Silk companion icon set #1 - "More Silk!"
+Last updated: 19 November 2007
+
+_________________________________________
+Damien Guard
+http://www.damieng.com/icons/silkcompanion
+_________________________________________
+
+This work is licensed under a
+Creative Commons Attribution 2.5 License.
+[ http://creativecommons.org/licenses/by/2.5/ ]
+
+The FamFamFam Silk icon set is a very large,
+consistent set of well-drawn icons that has
+proven to be popular with both applicationsQ
+and web sites.
+
+On a number of occasions I have found myself
+wanting more icons in the same style. This 
+companion set represents what I needed but also
+what I felt like adding.
+
+Some are new icons in the same style, some are
+alternative sizes/colours of the existing icons
+and some are new compositions of the elements.
+
+Any questions about this companion set please
+contact damieng@gmail.com.
+
+
+
+The Original Silk readme this work is based upon:
+
+
+Silk icon set 1.3
+
+_________________________________________
+Mark James
+http://www.famfamfam.com/lab/icons/silk/
+_________________________________________
+
+This work is licensed under a
+Creative Commons Attribution 2.5 License.
+[ http://creativecommons.org/licenses/by/2.5/ ]
+
+This means you may use it for any purpose,
+and make any changes you like.
+All I ask is that you include a link back
+to this page in your credits.
+
+Are you using this icon set? Send me an email
+(including a link or picture if available) to
+mjames@gmail.com
+
+Any other questions about this icon set please
+contact mjames@gmail.com
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+This copyright and license notice covers the images in this directory.
+Note the license notice contains an add-on.
+************************************************************************
+
+TITLE:	NUVOLA ICON THEME for KDE 3.x
+AUTHOR:	David Vignoni | ICON KING
+SITE:	http://www.icon-king.com
+MAILING LIST: http://mail.icon-king.com/mailman/listinfo/nuvola_icon-king.com
+
+Copyright (c)  2003-2004  David Vignoni.
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation,
+version 2.1 of the License.
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+You should have received a copy of the GNU Lesser General Public
+License along with this library (see the the license.txt file); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+#######**** NOTE THIS ADD-ON ****#######
+The GNU Lesser General Public License or LGPL is written for software libraries
+in the first place. The LGPL has to be considered valid for this artwork
+library too.
+Nuvola icon theme for KDE 3.x is a special kind of software library, it is an
+artwork library, it's elements can be used in a Graphical User Interface, or
+GUI.
+Source code, for this library means:
+ - raster png image* .
+The LGPL in some sections obliges you to make the files carry
+notices. With images this is in some cases impossible or hardly usefull.
+With this library a notice is placed at a prominent place in the directory
+containing the elements. You may follow this practice.
+The exception in section 6 of the GNU Lesser General Public License covers
+the use of elements of this art library in a GUI.
+dave [at] icon-king.com
+
+Date:		15 october 2004
+Version:	1.0
+
+DESCRIPTION:
+
+Icon theme for KDE 3.x. 
+Icons where designed using Adobe Illustrator, and then exported to PNG format.
+Icons shadows and minor corrections were done using Adobe Photoshop.
+Kiconedit was used to correct some 16x16 and 22x22 icons.
+
+LICENSE
+
+Released under GNU Lesser General Public License (LGPL)
+Look at the license.txt file.
+
+CONTACT
+
+David Vignoni	
+e-mail :		david [at] icon-king.com
+ICQ :			117761009
+http:           	http://www.icon-king.com
+
+
+Silk icon set 1.3
+
+_________________________________________
+Mark James
+http://www.famfamfam.com/lab/icons/silk/
+_________________________________________
+
+This work is licensed under a
+Creative Commons Attribution 2.5 License.
+[ http://creativecommons.org/licenses/by/2.5/ ]
+
+This means you may use it for any purpose,
+and make any changes you like.
+All I ask is that you include a link back
+to this page in your credits.
+
+Are you using this icon set? Send me an email
+(including a link or picture if available) to
+mjames@gmail.com
+
+Any other questions about this icon set please
+contact mjames@gmail.com

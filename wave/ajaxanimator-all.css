@@ -1,6 +1,5 @@
-
-  /* CSS File: http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/css/Ext.ux.grid.CellActions.css */  
- /** vim: ts=4:sw=4:nu:fdc=4:nospell 
+/* CSS File: https://antimatter15.github.io/ajaxanimator/cdn/css/Ext.ux.grid.CellActions.css */
+/** vim: ts=4:sw=4:nu:fdc=4:nospell 
  *
  * Ext.ux.grid.CellActions.css 
  *
@@ -19,519 +18,518 @@
  */
 
 .ux-cell-value {
-	position:relative;
-	zoom:1;
+    position: relative;
+    zoom: 1;
 }
 .ux-cell-actions {
-	position:absolute;
-	right:0;
-	top:-2px;
+    position: absolute;
+    right: 0;
+    top: -2px;
 }
 .ux-cell-actions-left {
-	left:0;
-	top:-2px;
+    left: 0;
+    top: -2px;
 }
 .ux-cell-action {
-	width:16px;
-	height:16px;
-	float:left;
-	cursor:pointer;
-	margin: 0 0 0 4px;
+    width: 16px;
+    height: 16px;
+    float: left;
+    cursor: pointer;
+    margin: 0 0 0 4px;
 }
 .ux-cell-actions-left .ux-cell-action {
-	margin: 0 4px 0 0;
+    margin: 0 4px 0 0;
 }
 
 /* eof */
 
-  /* CSS File: http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/css/Ext.ux.ColorField.css */  
- .x-form-field-wrap .x-form-color-trigger {
-	background:transparent url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/color-trigger.gif) no-repeat 0 0 !important;
-  cursor:pointer; 
+/* CSS File: https://antimatter15.github.io/ajaxanimator/cdn/css/Ext.ux.ColorField.css */
+.x-form-field-wrap .x-form-color-trigger {
+    background: transparent
+        url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/color-trigger.gif) no-repeat 0
+        0 !important;
+    cursor: pointer;
 }
 
-  /* CSS File: http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/css/ajaxanimator.css */  
- 
-	
-	/*ToastWindow*/	
-	
-	.error {background-image:url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/exclamation.png);}
-	.information {background-image:url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/information.png) ! important;}
-	
-  a:link, a:visited, a:active {
-    color: #0464BB;
-    text-decoration:none;
-  }
-  a:hover {
-    color: #1C417C;
+/* CSS File: https://antimatter15.github.io/ajaxanimator/cdn/css/ajaxanimator.css */
+
+/*ToastWindow*/
+
+.error {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/exclamation.png);
+}
+.information {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/information.png) !important;
+}
+
+a:link,
+a:visited,
+a:active {
+    color: #0464bb;
+    text-decoration: none;
+}
+a:hover {
+    color: #1c417c;
     text-decoration: underline;
-  }
+}
 
-	/*Loading Indicator, from extjs 2.1 docs*/
-	
-	body {
+/*Loading Indicator, from extjs 2.1 docs*/
+
+body {
     font: normal 12px verdana, arial, tahoma;
-	}
-	
-	html, body {
-    margin:0;
-    padding:0;
-    border:0 none;
-    overflow:hidden;
-    height:100%;
-    width:100%;
-	}
+}
 
-	
-	/*Those cool gray boxes that fall from the sky*/
-	.msg .x-box-mc {
-    font-size:14px;
-	}
-  .x-tab-panel-header {
+html,
+body {
+    margin: 0;
+    padding: 0;
+    border: 0 none;
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+
+/*Those cool gray boxes that fall from the sky*/
+.msg .x-box-mc {
+    font-size: 14px;
+}
+.x-tab-panel-header {
     border: 0 !important;
-  }
-  
-	#msg-div {
-    position:absolute;
-    left:35%;
-    top:10px;
-    width:250px;
-    z-index:20000;
-	}
+}
 
-	
-  div.canvas_container {
+#msg-div {
+    position: absolute;
+    left: 35%;
+    top: 10px;
+    width: 250px;
+    z-index: 20000;
+}
+
+div.canvas_container {
     position: absolute;
     width: 100%;
     height: 100%;
     padding-top: 0;
-  }
-  
-  div.canvas {
+}
+
+div.canvas {
     width: 480px;
     height: 272px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     top: 0;
     left: 0;
-  }
-  
-  div.canvas_edit {
+}
+
+div.canvas_edit {
     width: 100%;
     height: 100%;
     top: 0;
     left: 0;
-  }
-  
-  
-  div.preview_tip {
-  	background-color: #ffffff;
-	border: 1px solid black;
-  }
-  
+}
+
+div.preview_tip {
+    background-color: #ffffff;
+    border: 1px solid black;
+}
+
 .docs .loading-indicator {
- font:bold 13px Tahoma, Verdana, Arial, Helvetica, sans-serif;
- position:absolute;
- top:35%;
- left:43%;
- color:#444;
- background-image:url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/theme/images/default/shared/large-loading.gif);
- background-repeat: no-repeat;
- background-position:left 5px;
-padding:10px 10px 10px 38px;
- text-align:left;
+    font: bold 13px Tahoma, Verdana, Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 35%;
+    left: 43%;
+    color: #444;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/theme/images/default/shared/large-loading.gif);
+    background-repeat: no-repeat;
+    background-position: left 5px;
+    padding: 10px 10px 10px 38px;
+    text-align: left;
 }
 
 .loading-icon {
-	background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/loading.gif);
-	background-repeat: no-repeat;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/loading.gif);
+    background-repeat: no-repeat;
 }
-  
-  .ajaxanimator_logo {
-  	background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/logo/logo4.png);
-	background-repeat: no-repeat;
-  }
-  
-  h1.tiptitle {
+
+.ajaxanimator_logo {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/logo/logo4.png);
+    background-repeat: no-repeat;
+}
+
+h1.tiptitle {
     font-size: x-large;
-  }
-	/*Ext bug fix that causes tabPosition:bottom oriented tab icons to fail*/
-	/*from http://extjs.com/forum/showthread.php?p=146135#post146135*/
-	.x-tab-panel-footer .x-tab-strip .x-tab-with-icon .x-tab-right{padding-left:0px;}
+}
+/*Ext bug fix that causes tabPosition:bottom oriented tab icons to fail*/
+/*from http://extjs.com/forum/showthread.php?p=146135#post146135*/
+.x-tab-panel-footer .x-tab-strip .x-tab-with-icon .x-tab-right {
+    padding-left: 0px;
+}
 
-  /* CSS File: http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/css/toolbox.css */  
- 	/*General Button Styling*/
-	
-	DIV.toolboxButton { /*The icon thingy*/
-	display: block;
-	margin-left: auto;
-  margin-right: auto;
-  margin-top: 3px;
-	top: 3px;
-  background-repeat: no-repeat; /*no repeat*/
-	left: 3px;
-	height: 16px; /*icon size (of the icon)*/
-	width: 16px; /*can you tell that i'm commenting this only because of the ohloh page saying i'm one of the lowest 10%?*/
-	}
-  /*end div.toolboxbutton*/
-  
-	DIV.toolboxItem { /*the element surrounding the icon*/
-	background-repeat: no-repeat;
-	width: 22px;
-	height: 22px;
-	overflow: hidden; 
-	background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/buttonSprite.png); /*the magical sprite*/
-	background-repeat: no-repeat;
-	background-position: 44px 0px; /*by default, set to idle (aka, blank)*/
-	} /*can you tell that i'm commenting this only because of the ohloh page saying i'm one of the lowest 10%?*/
+/* CSS File: https://antimatter15.github.io/ajaxanimator/cdn/css/toolbox.css */
+/*General Button Styling*/
 
-  /*Button States*/
-  DIV.tbx_sel {
-	background-position: 0px 0px; /*alter css sprite to first position*/
-	}
-	DIV.tbx_ovr {
-	background-position: 0px -22px; /*alter css sprite to second position*/
-	}
-	DIV.tbx_idl {
-	background-position: 0px -44px; /*push the css sprite soo far back that it shows nothing*/
-	}
+div.toolboxButton {
+    /*The icon thingy*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3px;
+    top: 3px;
+    background-repeat: no-repeat; /*no repeat*/
+    left: 3px;
+    height: 16px; /*icon size (of the icon)*/
+    width: 16px; /*can you tell that i'm commenting this only because of the ohloh page saying i'm one of the lowest 10%?*/
+}
+/*end div.toolboxbutton*/
 
-  /*Button Icons*/
-	.tx_select {
-		background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/select.gif)
-	}
-	
-  .tx_selectadd {
-		background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/selectadd.gif)
-	}
-	
-  
-	.tx_rectangle {
-		background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/rectangle.gif)
-	}
-	
-	.tx_roundrect {
-		background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/roundrect.gif)
-	}
-	
-	.tx_circle {
-		background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/circle.gif)
-	}
-	
-	.tx_line {
-		background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/line.gif)
-	}
-	
-	.tx_path {
-		background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/path.gif)
-	}
-	
-	.tx_polygon {
-		background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/polygon.gif)
-	}
-	
-	.tx_text {
-		background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/text.gif)
-	}
-	
-	.tx_image {
-		background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/image.gif)
-	}
-	
-	.tx_shape {
-		background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/shape.gif)
-	}
-	
-	.tx_reset {
-		background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/reset.gif)
-	}
-	
-	.tx_delete {
-		background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/delete.gif)
-	}
+div.toolboxItem {
+    /*the element surrounding the icon*/
+    background-repeat: no-repeat;
+    width: 22px;
+    height: 22px;
+    overflow: hidden;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/buttonSprite.png); /*the magical sprite*/
+    background-repeat: no-repeat;
+    background-position: 44px 0px; /*by default, set to idle (aka, blank)*/
+} /*can you tell that i'm commenting this only because of the ohloh page saying i'm one of the lowest 10%?*/
+
+/*Button States*/
+div.tbx_sel {
+    background-position: 0px 0px; /*alter css sprite to first position*/
+}
+div.tbx_ovr {
+    background-position: 0px -22px; /*alter css sprite to second position*/
+}
+div.tbx_idl {
+    background-position: 0px -44px; /*push the css sprite soo far back that it shows nothing*/
+}
+
+/*Button Icons*/
+.tx_select {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/select.gif);
+}
+
+.tx_selectadd {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/selectadd.gif);
+}
+
+.tx_rectangle {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/rectangle.gif);
+}
+
+.tx_roundrect {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/roundrect.gif);
+}
+
+.tx_circle {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/circle.gif);
+}
+
+.tx_line {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/line.gif);
+}
+
+.tx_path {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/path.gif);
+}
+
+.tx_polygon {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/polygon.gif);
+}
+
+.tx_text {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/text.gif);
+}
+
+.tx_image {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/image.gif);
+}
+
+.tx_shape {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/shape.gif);
+}
+
+.tx_reset {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/reset.gif);
+}
+
+.tx_delete {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/delete.gif);
+}
 
 /*start all those random comments*/
 
 /*can you tell that i'm commenting this only because of the ohloh page saying i'm one of the lowest 10%?*/
 /*can you tell that i'm commenting this only because of the ohloh page saying i'm one of the lowest 10%?*/
 
-  /* CSS File: http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/css/icons.css */  
- /*Icons for the Accordian*/
+/* CSS File: https://antimatter15.github.io/ajaxanimator/cdn/css/icons.css */
+/*Icons for the Accordian*/
 .misc_panel_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/application_form.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/application_form.png);
 }
 .history_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/clock.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/clock.png);
 }
 .clipboard_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/paste_plain.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/paste_plain.png);
 }
 .library_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/book.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/book.png);
 }
 .misc_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/tux.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/tux.png);
 }
 .user_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/user.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/user.png);
 }
 /*Icons for the center panel titles*/
 .canvas_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/paintbrush.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/paintbrush.png);
 }
 .preview_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/zoom.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/zoom.png);
 }
 .animations_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/control_play.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/control_play.png);
 }
-
 
 /* Icons for the animation browser */
 
 .player_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/control_play.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/control_play.png);
 }
 .browse_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/folder_go.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/folder_go.png);
 }
 
 button.play_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/control_play_blue.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/control_play_blue.png);
 }
 
 button.stop_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/control_stop_blue.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/control_stop_blue.png);
 }
 button.import_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/pencil_go.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/pencil_go.png);
 }
 button.reload_icon {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/arrow_refresh.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/arrow_refresh.png);
 }
-
 
 /*icons for random panels */
 
 .app_settings {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/application_form_edit.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/application_form_edit.png);
 }
-
-
 
 /*Icon for the magickal animation browser thingsy*/
 
-
 button.arrow_next {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/arrow_right.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/arrow_right.png);
 }
 
 button.arrow_prev {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/arrow_left.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/arrow_left.png);
 }
 button.close {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/cross.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/cross.png);
 }
 button.execute {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/script_go.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/script_go.png);
 }
 button.load {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_go.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_go.png);
 }
 
-  /* CSS File: http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/css/timeline.css */  
- /*Terrific Timeline Turd (awesome alliteration)*/
+/* CSS File: https://antimatter15.github.io/ajaxanimator/cdn/css/timeline.css */
+/*Terrific Timeline Turd (awesome alliteration)*/
 
 td.frame {
-  text-align: center;
-  height: 19px;
-  width: 20px;
-  margin-left: auto;
-  margin-right: auto;
-  border-right: 1px solid #D0D0D0;
-  border-bottom: 1px solid #D0D0D0;
-  font-size: 13px; /*also font-size: small, but using absoute possitioning liek this is better*/
-  vertical-align: middle;
+    text-align: center;
+    height: 19px;
+    width: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-right: 1px solid #d0d0d0;
+    border-bottom: 1px solid #d0d0d0;
+    font-size: 13px; /*also font-size: small, but using absoute possitioning liek this is better*/
+    vertical-align: middle;
 }
 
 div.frame {
-  height: 19px;
-  width: 20px;
-  margin-left: auto;
-  margin-right: auto;
+    height: 19px;
+    width: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 div.fselect_mask {
-  background-color: silver;
-  opacity: .35;
-  filter: alpha(opacity=35);
-  -moz-opacity: 0.35;
-  height: 21px;
-  width: 20px;
-  position: absolute;
+    background-color: silver;
+    opacity: 0.35;
+    filter: alpha(opacity=35);
+    -moz-opacity: 0.35;
+    height: 21px;
+    width: 20px;
+    position: absolute;
 }
 
 td.keyframe {
-  background-color: #a3bae9;
+    background-color: #a3bae9;
 }
 
 td.tween {
-  background-color: #DFE8F6;
+    background-color: #dfe8f6;
 }
 
 #timeline_core {
-  cursor: default;
+    cursor: default;
 }
 
-  /* CSS File: http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/css/toolbar.css */  
- /*
+/* CSS File: https://antimatter15.github.io/ajaxanimator/cdn/css/toolbar.css */
+/*
 Likely a very very very huge file.
 
 All the icons in the toolbar (basically the majority of them)
 */
 
-
 /*---------------File Menu---------------*/
 .tb_new {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_add.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_add.png) !important;
 }
 .tb_open {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/folder_go.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/folder_go.png) !important;
 }
 .tb_save {
-/*background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/drive_go.png)*/
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/disk.png) !important;
+    /*background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/drive_go.png)*/
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/disk.png) !important;
 }
 .tb_publish {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_white_flash.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_white_flash.png) !important;
 }
 
 /*START PUBLISH*/
 .tb_flash {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_white_actionscript.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_white_actionscript.png) !important;
 }
 .tb_processing {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_white_code.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_white_code.png) !important;
 }
 
 .tb_silverlight {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_white_vector.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_white_vector.png) !important;
 }
 .tb_smil {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_white_vector.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_white_vector.png) !important;
 }
 .tb_image {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_white_paint.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_white_paint.png) !important;
 }
 .tb_javafx {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_white_cup.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_white_cup.png) !important;
 }
 /*END PUBLISH*/
 
 .tb_offline {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/disconnect.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/disconnect.png) !important;
 }
 
 .tb_comp {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/computer_go.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/computer_go.png) !important;
 }
 .tb_server {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/drive_web.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/drive_web.png) !important;
 }
 .tb_url {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/world_link.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/world_link.png) !important;
 }
 .tb_text {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/textfield.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/textfield.png) !important;
 }
 
 /*---------------Edit Menu---------------*/
 .tb_undo {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/arrow_undo.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/arrow_undo.png) !important;
 }
 .tb_redo {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/arrow_redo.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/arrow_redo.png) !important;
 }
 .tb_cut {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/cut_red.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/cut_red.png) !important;
 }
 .tb_copy {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_copy.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_copy.png) !important;
 }
 .tb_paste {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_paste.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_paste.png) !important;
 }
 .tb_delete {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/delete.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/delete.png) !important;
 }
 .tb_visible {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/eye.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/eye.png) !important;
 }
 .tb_invisible {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/eye_closed.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/eye_closed.png) !important;
 }
 .tb_up {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/arrow_up.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/arrow_up.png) !important;
 }
 .tb_down {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/arrow_down.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/arrow_down.png) !important;
 }
 .tb_fast {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/lightning.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/lightning.png) !important;
 }
 .tb_wave {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/icon/wave.gif) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/icon/wave.gif) !important;
 }
 .tb_size {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/shape_handles.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/shape_handles.png) !important;
 }
 .tb_cursor {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/cursor.png)
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/cursor.png);
 }
 
 /*---------------View Menu---------------*/
 .tb_animation {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_white_flash.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_white_flash.png) !important;
 }
 .tb_theme {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk2/theme.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk2/theme.png) !important;
 }
 /*---------------Tools Menu---------------*/
 .tb_tools {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/paintbrush.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/paintbrush.png) !important;
 }
 .tb_script {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/script_code_red.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/script_code_red.png) !important;
 }
 .tb_plugin_conf {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/plugin_edit.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/plugin_edit.png) !important;
 }
 .tb_reload {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/arrow_refresh.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/arrow_refresh.png) !important;
 }
 .tb_shield {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/shield.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/shield.png) !important;
 }
-
 
 .tb_recover_canvas {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/paintbrush.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/paintbrush.png) !important;
 }
 .tb_recover_animation {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/film.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/film.png) !important;
 }
 .tb_recover_application {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_refresh.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_refresh.png) !important;
 }
-
 
 /*---------------Timeline Menu---------------*/
 
-
 .tb_clearframe {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_delete.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_delete.png) !important;
 }
 .tb_newlayer {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/add.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/add.png) !important;
 }
 /*
 .tb_reload {
@@ -539,93 +537,93 @@ See Tools Menu
 }
 */
 .tb_addkeyframe {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/key_add.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/key_add.png) !important;
 }
 .tb_insertframe {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/page_add.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/page_add.png) !important;
 }
 .tb_setlast {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/resultset_last.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/resultset_last.png) !important;
 }
-.tb_purge_empty, .tb_delframe {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/bin.png) !important;
+.tb_purge_empty,
+.tb_delframe {
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/bin.png) !important;
 }
 /*---------------Animation Menu---------------*/
 .tb_play {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/control_play.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/control_play.png) !important;
 }
 .tb_pause {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/control_pause.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/control_pause.png) !important;
 }
-.tb_nf { /*next frame */
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/control_fastforward.png) !important;
+.tb_nf {
+    /*next frame */
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/control_fastforward.png) !important;
 }
-.tb_pf { /*previeous frame */
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/control_rewind.png) !important;
+.tb_pf {
+    /*previeous frame */
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/control_rewind.png) !important;
 }
 .tb_last {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/control_end.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/control_end.png) !important;
 }
 .tb_first {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/control_start.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/control_start.png) !important;
 }
 .tb_recalculate {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/database_refresh.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/database_refresh.png) !important;
 }
 /*---------------Plugin Menu---------------*/
 
 .tb_plugin {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/plugin.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/plugin.png) !important;
 }
 
 .tb_plugin_add {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/package_add.png) /*Uses package versus plugin because it is more destinct*/
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/package_add.png); /*Uses package versus plugin because it is more destinct*/
 }
 
 /*---------------User Menu---------------*/
 .tb_login {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/key_go.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/key_go.png) !important;
 }
 .tb_register {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/user_add.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/user_add.png) !important;
 }
 .tb_logout {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/door_out.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/door_out.png) !important;
 }
 .tb_browse {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/folder_explore.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/folder_explore.png) !important;
 }
 .tb_profile {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/vcard.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/vcard.png) !important;
 }
 /*---------------Help Menu---------------*/
 .tb_keyboard {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/keyboard.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/keyboard.png) !important;
 }
 .tb_about {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/information.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/information.png) !important;
 }
 .tb_comment {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/comments.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/comments.png) !important;
 }
 .tb_bug {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/bug.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/bug.png) !important;
 }
 .tb_docs {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/book.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/book.png) !important;
 }
 .tb_info {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/bricks.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/bricks.png) !important;
 }
 .tb_tutorial {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/wand.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/wand.png) !important;
 }
 .tb_tip {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/lightbulb.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/lightbulb.png) !important;
 }
 .tb_donate {
-background-image: url(http://ajaxanimator.googlecode.com/svn-history/r476/trunk/ajaxanimator/img/silk/money.png) !important;
+    background-image: url(https://antimatter15.github.io/ajaxanimator/cdn/img/silk/money.png) !important;
 }
-
-
-
